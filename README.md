@@ -2,6 +2,6 @@
 
 My Home Assistant config
 
-#Devices
+## Devices
 
-#Interface
+## Interface
