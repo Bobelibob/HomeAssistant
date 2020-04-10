@@ -58,11 +58,7 @@ sensor:
         - memory_real_usage
         - network_up
   - platform: cpuspeed
-  
-  #Client ID
-  #1018852733337-s0ln0h76rqdh59ldsm7ogmao94disqln.apps.googleusercontent.com
-  #Client Secret
-  #a4hl9dkK1qxIH3fhFgKFNN0I
+
 google:
     client_id: !secret google_calendar_id
     client_secret: !secret google_calendar_secret
